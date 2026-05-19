@@ -16,6 +16,7 @@ Computer Science & Engineering
 - **Duration:** 02/02/2026 – 18/05/2026 
 - **Skills:** MongoDB, Express.js, React.js, Node.js  
 - **Certificate:** [View](aitchnu_mern_internship_certificate.pdf)
+- **Verification:** [Verify Here](https://internship.aitchnu.tech/verification) *(Use INTERN_ID: ANGT/DEC/722316)*
 ---
 
 ### 2. Infotise IT Solution — Cloud Computing Internship *(Completed)*
